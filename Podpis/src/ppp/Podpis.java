@@ -35,7 +35,7 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.Timer;
 
-
+//a
 
 public class Podpis extends JFrame {
 
