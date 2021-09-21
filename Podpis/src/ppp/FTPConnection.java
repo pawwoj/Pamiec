@@ -8,7 +8,7 @@ import java.io.OutputStream;
 
 import org.apache.commons.net.ftp.FTP;
 import org.apache.commons.net.ftp.FTPClient;
-
+//a
 public class FTPConnection {
 // xxxxxxxxxxxxxxxxxxx IP Login i hasol
 	String server = "xx.xxx.xx.xx IP SERWERA";
